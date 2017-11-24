@@ -1,0 +1,2 @@
+# BAT_MAVNE_SVN_EMAIL_TOMCAT_AOUT
+定时使用bat命令自动更新svn库，自动构建maven调整war内容，重新生成war，你用ftp远程发布tomcat上并发邮件通知
